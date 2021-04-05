@@ -1,4 +1,4 @@
-message = "Mjqqt ifi ymnx nx rd xjhwjy rjxxflj - kwtr Otxm"
+message = "Mjqqt ymjwj! Htslwfyzqfyntsx ts ijhwduynsl rd rjxxflj - N'i qtaj yt mjfw dtzw kjjigfhp ts rd htij, uqjfxj xjsi rj f ijhwduyji rjxxflj ns wjyzws. Ymfspx, Otxm."
 alphabet = "abcdefghijklmnopqrstuvwxyz"
 
 def decoder(message,offset):
